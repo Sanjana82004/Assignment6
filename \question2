@@ -1,0 +1,23 @@
+Manual Test Case Report for Travel Booking Platform
+Objective
+
+To ensure proper functioning of the Travel Booking Platform for bookings and payments.
+
+Test Environment
+
+Application Type: Web-based
+
+Browser: Chrome
+
+OS: Windows 10
+
+Test Cases:-
+Test Case ID        	Test Scenario           	Test Steps	                   Expected Result        	     Status
+TB_TC_01	          User Registration	        Enter valid details → Register	 Registration successful	      Pass
+TB_TC_02	         Search travel options   	Enter source & destination	       Available options displayed	  Pass
+TB_TC_03	         Book ticket	            Select option → Confirm booking	    Booking successful        	  Pass
+TB_TC_04         	Payment processing	        Enter valid payment details	       Payment successful         	Pass
+TB_TC_05	        Cancel booking	             Select booking → Cancel	         Booking cancelled	          Pass
+Conclusion:-
+
+The Travel Booking Platform functions smoothly with accurate booking and payment processing.
