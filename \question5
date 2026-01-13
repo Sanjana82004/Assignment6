@@ -1,0 +1,27 @@
+5️⃣ Manual Test Case Report for Healthcare Management System
+Objective:-
+
+To test patient management and appointment functionalities of the healthcare system.
+
+Test Environment
+
+Application Type: Healthcare Web Application
+
+Browser: Chrome
+
+OS: Windows 10
+
+Test Cases
+Test Case ID	        Test Scenario	          Test Steps	                Expected Result	            Status
+HC_TC_01	            Patient registration	  Enter patient details	   Patient registered         	  Pass
+HC_TC_02	             Appointment booking	  Select doctor & time	     Appointment booked	         Pass
+HC_TC_03	            View patient records	    Search patient	         Records displayed	         Pass
+HC_TC_04	            Update patient data	     Modify patient info	      Data updated	             Pass
+HC_TC_05	            Generate bill	           Click billing option	      Bill generated	          Pass
+Conclusion:-
+
+The Healthcare Management System is efficient and reliable. All tested features worked as expected.
+
+
+
+Prepare viva questions from testing
