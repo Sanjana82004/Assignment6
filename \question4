@@ -1,0 +1,23 @@
+4️⃣ Manual Test Case Report for Automated Banking Website
+Objective:-
+
+To validate banking operations such as login, fund transfer, and balance inquiry.
+
+Test Environment
+
+Application Type: Banking Web Application
+
+Browser: Chrome
+
+OS: Windows 10
+
+Test Cases
+Test Case ID	     Test Scenario	       Test Steps	               Expected Result                         	Status
+BANK_TC_01	        User login	        Enter valid credentials	      Login successful	                    Pass
+BANK_TC_02	       Balance inquiry	    Click balance option	        Balance displayed	                    Pass
+BANK_TC_03	        Fund transfer	     Enter beneficiary & amount	     Transfer successful	                Pass
+BANK_TC_04	       Invalid transfer   	Enter invalid amount         	Error message shown	                  Pass
+BANK_TC_05	        Logout	              Click logout	               User logged out	                    Pass
+Conclusion
+
+The automated banking system is secure, reliable, and performs banking operations correctly.
