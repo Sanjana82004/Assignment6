@@ -1,0 +1,29 @@
+1️⃣ Manual Test Case Report for Customer Relationship Management (CRM)
+Objective
+
+To verify that the Customer Relationship Management system works correctly and meets user requirements.
+
+Test Environment
+
+Application Type: Web-based CRM
+
+Browser: Chrome
+
+OS: Windows 10
+
+Testing Type: Manual Testing
+
+Test Cases
+Test Case ID    	Test Scenario                  	Test Steps	                                     Expected Result        	      Status
+CRM_TC_01      	Login with valid credentials	   Enter valid username & password → Click Login  	User should login successfully	 Pass
+
+CRM_TC_02	      Login with invalid credentials	 Enter wrong username or password	                 Error message displayed	       Pass
+
+CRM_TC_03	          Add new customer	          Enter customer details → Save                   	Customer record saved         	Pass
+
+CRM_TC_04	       Edit customer details	          Modify existing customer data	                  Data updated successfully	      Pass
+
+CRM_TC_05	       Delete customer record	           Select customer → Delete                       Customer record deleted       	Pass
+Conclusion:-
+
+All major CRM functionalities were tested successfully. The system works as expected and is user-friendly.
