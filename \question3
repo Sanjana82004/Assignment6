@@ -1,0 +1,23 @@
+3️⃣ Manual Test Case Report for Online E-Commerce Website
+Objective:-
+
+To test shopping, order, and payment functionalities of the e-commerce website.
+
+Test Environment
+
+Application Type: Web-based
+
+Browser: Chrome
+
+OS: Windows 10
+
+Test Cases:-
+Test Case ID	        Test Scenario	      Test Steps	                     Expected Result	           Status
+EC_TC_01	              User login	    Enter valid credentials	           Login successful	            Pass
+EC_TC_02	              View products	    Browse product list	             Products displayed	          Pass
+EC_TC_03	               Add to cart	  Select product → Add to cart	     Product added to cart	      Pass
+EC_TC_04	               Place order	      Checkout → Confirm order	       Order placed	              Pass
+EC_TC_05	              Online payment	    Enter payment details	           Payment successful	        Pass
+Conclusion:-
+
+The e-commerce website performs well and allows smooth shopping and payment experiences.
